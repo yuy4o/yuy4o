@@ -9,3 +9,5 @@
 ## Code Preview
 
 [Paper Code](https://acse-yj522.github.io/paper/Random%20Forest%20Regression%20for%20Predicting%20Student%20Performance.html)
+
+[foo](docs/foo.md)
