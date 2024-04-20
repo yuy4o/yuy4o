@@ -1,11 +1,11 @@
-# paper
+### Hi there 👋
 
-## Paper Download
+🔭 I’m currently working on NLP and LLM.
 
-[Random Forest Regression for Predicting Student Performance](docs/Random%20Forest%20Regression%20for%20Predicting%20Student%20Performance.pdf)
+🌱 I’m currently learning Computer Systems, Data Structures and Algorithms.
 
-[Statistical Analysis of Several Factors in Predicting Student Performance](docs/Statistical%20Analysis%20of%20Several%20Factors%20in%20Predicting%20Student%20Performance.pdf)
+⚡ Hobbies: programming, marathon
 
-## Code Preview
+✨ About me: https://acse-yj522.github.io/
 
-[Paper Code](docs/Random%20Forest%20Regression%20for%20Predicting%20Student%20Performance.html)
+💬 How to reach me: yuyao.jiang22@gmail.com
