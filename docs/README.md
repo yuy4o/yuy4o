@@ -80,8 +80,6 @@
 
 [结束语 学编辑器，究竟学了什么？](vscode/结束语学编辑器，究竟学了什么？.md)
 
-## [ACM Template](https://github.com/EndlessCheng/cp-pdf)
-
 ## [Papers](https://yuy4o.github.io/papers/)
 
 #### Conference Paper:
