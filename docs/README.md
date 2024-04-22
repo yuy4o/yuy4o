@@ -1,4 +1,4 @@
-# acse-yj522
+# yuy4o
 
 ## [VS Code Tutorials](https://github.com/kk17/vscode)
 
@@ -80,63 +80,18 @@
 
 [结束语 学编辑器，究竟学了什么？](vscode/结束语学编辑器，究竟学了什么？.md)
 
-
 ## [ACM Template](https://github.com/EndlessCheng/cp-pdf)
 
-[[Tutorial] A Way to Practice Competitive Programming](acm_template/[Tutorial]%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf)
-
-[ACM国际大学生程序设计竞赛：算法与实现](acm_template/ACM国际大学生程序设计竞赛：算法与实现.pdf)
-
-[Codeforces题目泛做 许昊然](acm_template/Codeforces题目泛做%20许昊然.pdf)
-
-[Competitive Programmer’s Handbook](acm_template/Competitive%20Programmer’s%20Handbook.pdf)
-
-[ETHZ模板](acm_template/ETHZ模板.pdf)
-
-[F0RE1GNERS模板](acm_template/F0RE1GNERS模板.pdf)
-
-[Guide to Competitive Programming - Learning and Improving Algorithms Through Contests](acm_template/Guide%20to%20Competitive%20Programming%20-%20Learning%20and%20Improving%20Algorithms%20Through%20Contests.pdf)
-
-[kactl模板](acm_template/kactl模板.pdf)
-
-[kuangbin的ACM模板（新）](acm_template/kuangbin的ACM模板（新）.pdf)
-
-[Performance Analysis of BSTs in System Software.pdf](acm_template/Performance%20Analysis%20of%20BSTs%20in%20System%20Software.pdf)
-
-[Using de Bruijn Sequences to Index a 1 in a Computer Word.pdf](acm_template/Using%20de%20Bruijn%20Sequences%20to%20Index%20a%201%20in%20a%20Computer%20Word.pdf)
-
-[后缀数组——处理字符串的有力工具](acm_template/后缀数组——处理字符串的有力工具.pdf)
-
-[命题报告](acm_template/命题报告.pdf)
-
-[国家集训队2016论文集](acm_template/国家集训队2016论文集.pdf)
-
-[字符串算法选讲-金策](acm_template/字符串算法选讲-金策.pdf)
-
-[挑战程序设计竞赛(第2版)](acm_template/挑战程序设计竞赛(第2版).pdf)
-
-[最小割模型在信息学竞赛中的应用-胡伯涛-2007](acm_template/最小割模型在信息学竞赛中的应用-胡伯涛-2007.pdf)
-
-[杭电AcmKeHaoWanLe模板](acm_template/杭电AcmKeHaoWanLe模板.pdf)
-
-[母函数的性质及应用](acm_template/母函数的性质及应用.pdf)
-
-[组合游戏略述——浅谈SG游戏的若干拓展及变形](acm_template/组合游戏略述——浅谈SG游戏的若干拓展及变形.pdf)
-
-[背包问题九讲 2.0 beta1.2.pdf](acm_template/背包问题九讲%202.0%20beta1.2.pdf)
-
-
-## [Papers](https://acse-yj522.github.io/papers/)
+## [Papers](https://yuy4o.github.io/papers/)
 
 #### Conference Paper:
 
 [Random Forest Regression for Predicting Student Performance](papers/Random%20Forest%20Regression%20for%20Predicting%20Student%20Performance.pdf)
 
-[Statistical Analysis of Several Factors in Predicting Student Performance](papers/Statistical%20Analysis%20of%20Several%20Factors%20in%20Predicting%20Student%20Performance.pdf), [[code]](papers/Random%20Forest%20Regression%20for%20Predicting%20Student%20Performance.html)
+[Statistical Analysis of Several Factors in Predicting Student Performance](papers/121630D.pdf), [[code]](papers/Random%20Forest%20Regression%20for%20Predicting%20Student%20Performance.html)
 
 #### Independent Research Projects:
 
 BSc: [Exploring the performance of a vibro-impact energy harvester under asymmetric restitution coefficients](papers/MA3PRO_report_Yuyao_Jiang.pdf)
 
 MSc: [A comparison of RANS and URANS turbulence models for flow past a circular cylinder in OpenFOAM](papers/yj522-final-report.pdf)
-
