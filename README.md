@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on NLP and LLMs.
+🔭 I’m currently working on LLMs and AI+X.
 
-🌱 I’m currently learning Computer Systems, Data Structures and Algorithms.
+🌱 I’m currently learning Computer Systems, Data Structures and Algorithms, Reinforcement Learning.
 
-⚡ Hobbies: programming, marathon
+⚡ Hobbies: programming, marathon, reading
 
 ✨ About me: https://yuy4o.github.io/
 
