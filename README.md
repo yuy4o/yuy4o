@@ -6,6 +6,6 @@
 
 ⚡ Hobbies: programming, marathon, reading
 
-✨ About me: https://yuy4o.github.io/
+✨ About me: https://yuy4o.com
 
 💬 How to reach me: yuyao.jiang22@gmail.com
