@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on LLMs and AI+X.
 
-🌱 I’m currently learning Computer Systems, Data Structures and Algorithms, Reinforcement Learning.
+🌱 I’m currently learning AI infra, Reinforcement Learning, Multimodality.
 
-⚡ Hobbies: programming, marathon, reading
+⚡ Hobbies: mathematics, programming, marathon
 
 ✨ About me: https://yuy4o.com
 
